@@ -1,6 +1,6 @@
 <!--- <img align="right" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250" /> --->
 <a href="https://www.altostratus.es" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="fpelegri_altostratus_firma_github.png" width=250 />
+  <img align="left" src="fpelegri_altostratus_gcp_aws_firma_github.png" width=250 />
 </a>
 <h2>Francisco Pelegri</h2>
 <h3>Software developer @ <a href="https://www.altostratus.es" target="_blank" rel="noopener noreferrer">Altostratus</a></h3>
