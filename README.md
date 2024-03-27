@@ -6,7 +6,7 @@
 <h3>Software developer @ <a href="https://www.altostratus.es" target="_blank" rel="noopener noreferrer">Altostratus</a></h3>
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fpelegri-altostratus)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:f.pelegri@altostratus.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:f.pelegri@altostratus.es)
 <br>
 [![GCP](https://img.shields.io/badge/Google_Cloud_Developer-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://developers.google.com/profile/u/fpelegri/dashboard)
 <br>
