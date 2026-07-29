@@ -49,7 +49,10 @@
     <a href="https://cloud.google.com/learn/certification/cloud-developer" target="_blank" rel="noopener noreferrer">
       <img align="left" src="GCP_PCD_badge.png" width=100 />
     </a>
-        <a href="https://cloud.google.com/learn/certification/cloud-devops-engineer" target="_blank" rel="noopener noreferrer">
+    <a href="https://cloud.google.com/learn/certification/cloud-devops-engineer" target="_blank" rel="noopener noreferrer">
+      <img align="left" src="GCP_DevOps_badge.png" width=100 />
+    </a>
+    <a href="https://cloud.google.com/learn/certification/cloud-database-engineer" target="_blank" rel="noopener noreferrer">
       <img align="left" src="GCP_DevOps_badge.png" width=100 />
     </a>
   </td>
